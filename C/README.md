@@ -1,5 +1,6 @@
 # C Programming Language 90 Days Plan
 
+A 90-day plan for learning C programming problems, from beginners to a more advanced level, requires structured practice, gradual progression, and a mix of theory and practical application. Here's a comprehensive plan:
 
 ## Days 1-10: Building the Foundations
 -------------------------------------------------
