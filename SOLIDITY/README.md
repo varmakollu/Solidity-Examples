@@ -1,4 +1,4 @@
-
+# Solidity Programming Language 90 Days Plan
 Learning Solidity, the programming language for Ethereum smart contracts, can be a rewarding journey. Here's a comprehensive 90-day plan to take you from a beginner to a proficient Solidity developer:
 
 ## Days 1-10: Building the Basics
