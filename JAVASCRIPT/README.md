@@ -77,17 +77,17 @@ A 90-day plan for learning JavaScript programming problems, taking you from a be
 - Study advanced topics such as closures, this keyword, and functional programming in JavaScript.
 - Practice writing JavaScript code with these concepts in mind.
 
-######## 71-80: JavaScript Frameworks and Libraries
+#### 71-80: JavaScript Frameworks and Libraries
 
 - Explore popular JavaScript frameworks and libraries like React, Angular, or Vue.
 - Build a project using one of these technologies to apply your knowledge.
 
-######## 81-85: Advanced Problem-Solving Challenges
+#### 81-85: Advanced Problem-Solving Challenges
 
 - Continue working on challenging problems on platforms like LeetCode, CodeSignal, or Codewars.
 - Enhance your problem-solving skills and refine your algorithms.
 
-######## 86-90: Personal Projects
+#### 86-90: Personal Projects
 
 - Develop a personal project using JavaScript.
 - Build a web application, a browser extension, or any software that interests you.
