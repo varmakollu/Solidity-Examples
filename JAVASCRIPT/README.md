@@ -1,3 +1,5 @@
+# JavaScript Programming Language 90 Days Plan
+
 A 90-day plan for learning JavaScript programming problems, taking you from a beginner to a more advanced level, involves a structured approach, regular practice, and a balance of theoretical and hands-on learning. Here's a comprehensive plan:
 
 ## Days 1-10: Establishing the Basics
