@@ -1,6 +1,7 @@
 A 90-day plan for learning JavaScript programming problems, taking you from a beginner to a more advanced level, involves a structured approach, regular practice, and a balance of theoretical and hands-on learning. Here's a comprehensive plan:
 
 ## Days 1-10: Establishing the Basics
+------------------------------------------------
 
 #### 1-3: Introduction to JavaScript
 
@@ -14,7 +15,9 @@ Practice variable assignments and basic data manipulation.
 
 Understand conditional statements (if, else) and loops (for, while).
 Create simple programs to apply decision-making and loops.
+
 ## Days 11-30: Deepening Your Knowledge
+------------------------------------------------
 
 #### 11-14: Functions
 
@@ -38,6 +41,7 @@ Start solving simple problems using JavaScript.
 Focus on improving your problem-solving skills.
 
 ## Days 31-60: Intermediate Level Skills
+-----------------------------------------------------------
 
 #### 31-40: Asynchronous JavaScript
 
@@ -55,7 +59,9 @@ Practice error handling and debugging your JavaScript code.
 
 Tackle more complex programming problems using JavaScript.
 Experiment with algorithms and data structures.
+
 ## Days 61-90: Mastery and Advanced Challenges
+------------------------------------------------------------
 
 #### 61-70: Advanced JavaScript Concepts
 
@@ -67,7 +73,7 @@ Practice writing JavaScript code with these concepts in mind.
 Explore popular JavaScript frameworks and libraries like React, Angular, or Vue.
 Build a project using one of these technologies to apply your knowledge.
 
-######## 81-85: Advanced Problem Solving Challenges
+######## 81-85: Advanced Problem-Solving Challenges
 
 Continue working on challenging problems on platforms like LeetCode, CodeSignal, or Codewars.
 Enhance your problem-solving skills and refine your algorithms.
