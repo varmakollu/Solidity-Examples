@@ -1,7 +1,7 @@
-## C Programming Language 90 Days Plan
+# C Programming Language 90 Days Plan
 
 
-### Days 1-10: Building the Foundations
+## Days 1-10: Building the Foundations
 
 #### Days 1-3: Introduction to C
 
@@ -17,7 +17,7 @@ Work on simple programs to declare variables and perform basic arithmetic operat
 
 Understand conditional statements (if, else) and loops (while, for).
 Practice with programs involving decision-making and loops.
-### Days 11-30: Deepening Your Knowledge
+## Days 11-30: Deepening Your Knowledge
 
 #### Days 11-14: Arrays and Strings
 
@@ -39,7 +39,7 @@ Create programs that perform file operations.
 
 Start solving simple problems from online coding platforms or textbooks.
 Focus on improving your problem-solving skills.
-### Days 31-60: Intermediate Level Skills
+## Days 31-60: Intermediate Level Skills
 
 #### Days 31-40: Data Structures
 
@@ -57,7 +57,7 @@ Optimize your programs for efficiency.
 
 Study more advanced C concepts such as multi-dimensional arrays, structures, and unions.
 Create programs that utilize these concepts.
-### Days 61-90: Mastery and Advanced Challenges
+## Days 61-90: Mastery and Advanced Challenges
 
 ##### Days 61-70: Advanced Data Structures
 
