@@ -1,8 +1,9 @@
 # Day 1: Introduction and Basics
 
 ### Morning (2-3 hours): Introduction to C
+  
+[![IMAGE_ALT](https://img.youtube.com/vi/SC8uWXmDJs4/0.jpg)](https://www.youtube.com/watch?v=SC8uWXmDJs4)
 
-- https://youtu.be/SC8uWXmDJs4?si=vFr7Wsfme8iuES0q
 
   ```
   #include <stdio.h>
@@ -16,7 +17,9 @@
 
 ### Afternoon (2-3 hours): Setting Up
 
-- Install a C development environment as mentioned in the plan. [https://youtu.be/dYGgm_55Whg?si=XxdiIuBGixFiiVVH]
+- Install a C development environment as mentioned in the plan.
+
+[![IMAGE_ALT](https://img.youtube.com/vi/dYGgm_55Whg/0.jpg)](https://www.youtube.com/watch?v=dYGgm_55Whg)
 
   
 - Write your first "Hello, World!" program in C.
