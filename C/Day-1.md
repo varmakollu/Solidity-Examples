@@ -2,6 +2,8 @@
 
 ### Morning (2-3 hours): Introduction to C
 
+https://youtu.be/SC8uWXmDJs4?si=vFr7Wsfme8iuES0q
+
   ```
   #include <stdio.h>
 
@@ -17,6 +19,16 @@
 - Install a C development environment as mentioned in the plan.
   
 - Write your first "Hello, World!" program in C.
+
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+```
 
 ### Evening (2-3 hours): Basic Syntax
 
