@@ -2,7 +2,7 @@
 
 ### Morning (2-3 hours): Introduction to C
 
-https://youtu.be/SC8uWXmDJs4?si=vFr7Wsfme8iuES0q
+- https://youtu.be/SC8uWXmDJs4?si=vFr7Wsfme8iuES0q
 
   ```
   #include <stdio.h>
@@ -16,7 +16,8 @@ https://youtu.be/SC8uWXmDJs4?si=vFr7Wsfme8iuES0q
 
 ### Afternoon (2-3 hours): Setting Up
 
-- Install a C development environment as mentioned in the plan.
+- Install a C development environment as mentioned in the plan. [https://youtu.be/dYGgm_55Whg?si=XxdiIuBGixFiiVVH]
+
   
 - Write your first "Hello, World!" program in C.
 
