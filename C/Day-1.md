@@ -1,27 +1,5 @@
 # Day 1: Introduction and Basics
 
-### Morning (2-3 hours): Introduction to C
-  
-[![IMAGE_ALT](https://img.youtube.com/vi/SC8uWXmDJs4/0.jpg)](https://www.youtube.com/watch?v=SC8uWXmDJs4)
-
-
-  ```
-  #include <stdio.h>
-
-  int main() {
-    printf("Welcome to the world of C programming!");
-    return 0;
-  }
-
-  ```
-
-### Afternoon (2-3 hours): Setting Up
-
-- Install a C development environment as mentioned in the plan.
-
-[![IMAGE_ALT](https://img.youtube.com/vi/dYGgm_55Whg/0.jpg)](https://www.youtube.com/watch?v=dYGgm_55Whg)
-
-  
 - Write your first "Hello, World!" program in C.
 
 ```
@@ -33,6 +11,18 @@ int main() {
 }
 
 ```
+
+- Write your "Welcome to the world of C programming" program in C.
+
+  ```
+  #include <stdio.h>
+
+  int main() {
+    printf("Welcome to the world of C programming!");
+    return 0;
+  }
+
+  ```
 
 ### Evening (2-3 hours): Basic Syntax
 
