@@ -11,10 +11,9 @@ int main() {
 }
 
 ```
-
 - Write your "Welcome to the world of C programming" program in C.
 
-  ```
+```
   #include <stdio.h>
 
   int main() {
@@ -22,22 +21,22 @@ int main() {
     return 0;
   }
 
-  ```
-
-### Evening (2-3 hours): Basic Syntax
+```
+- Write a C Program to Print an Integer (Entered by the User)
 
 ```
 #include <stdio.h>
+int main() {   
+    int number;
+   
+    printf("Enter an integer: ");  
+    
+    // reads and stores input
+    scanf("%d", &number);
 
-int main() {
-    int number = 42;
-    char letter = 'A';
-    float pi = 3.14;
-
-    printf("Number: %d\n", number);
-    printf("Letter: %c\n", letter);
-    printf("Pi: %.2f\n", pi);
-
+    // displays output
+    printf("You entered: %d", number);
+    
     return 0;
 }
 
