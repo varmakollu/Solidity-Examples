@@ -1,4 +1,4 @@
-# Day 2: 
+# Day 2:  Introduction and Basics
 
 - Write a C Program to Add Two Integers
 
