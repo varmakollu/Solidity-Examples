@@ -1,21 +1,25 @@
 # Day 2:  Introduction and Basics
 
-- Write a C Program to Add Two Integers
+- C Program to Swap Two Numbers
 
 ```
 #include <stdio.h>
-int main() {    
 
-    int number1, number2, sum;
-    
-    printf("Enter two integers: ");
-    scanf("%d %d", &number1, &number2);
+int main()
+{
+	int x, y;
+	printf("Enter Value of x ");
+	scanf("%d", &x);
+	printf("\nEnter Value of y ");
+	scanf("%d", &y);
 
-    // calculate the sum
-    sum = number1 + number2;      
-    
-    printf("%d + %d = %d", number1, number2, sum);
-    return 0;
+	int temp = x;
+	// Assign the value of y to x
+	x = y;
+	y = temp;
+
+	printf("\nAfter Swapping: x = %d, y = %d", x, y);
+	return 0;
 }
 
 ```
