@@ -67,3 +67,81 @@ int main() {
 }
 
 ```
+
+- C Program To Find Simple Interest
+
+```
+
+#include <stdio.h> 
+#include <stdio.h>
+
+int main() {
+  float principal_amount, rate_of_interest, time, simple_interest;
+
+  printf("Enter the principal amount: ");
+  scanf("%f", &principal_amount);
+
+  printf("Enter the rate of interest: ");
+  scanf("%f", &rate_of_interest);
+
+  printf("Enter the time: ");
+  scanf("%f", &time);
+
+  simple_interest = (principal_amount * rate_of_interest * time) / 100;
+
+  printf("The simple interest is: %f\n", simple_interest);
+
+  return 0;
+}
+
+```
+
+- C Program For Compound Interest
+
+```
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+  float principal_amount, rate_of_interest, time, compound_interest;
+
+  printf("Enter the principal amount: ");
+  scanf("%f", &principal_amount);
+
+  printf("Enter the rate of interest: ");
+  scanf("%f", &rate_of_interest);
+
+  printf("Enter the time: ");
+  scanf("%f", &time);
+
+  compound_interest = principal_amount * pow((1 + rate_of_interest / 100), time) - principal_amount;
+
+  printf("The compound interest is: %f\n", compound_interest);
+
+  return 0;
+}
+
+```
+
+- C Program To Find Area And Perimeter of Rectangle
+
+```
+#include <stdio.h>
+
+int main() {
+  float length, breadth, area, perimeter;
+
+  printf("Enter the length and breadth of the rectangle: ");
+  scanf("%f %f", &length, &breadth);
+
+  area = length * breadth;
+  perimeter = 2 * (length + breadth);
+
+  printf("The area of the rectangle is: %f\n", area);
+  printf("The perimeter of the rectangle is: %f\n", perimeter);
+
+  return 0;
+}
+
+
+```
