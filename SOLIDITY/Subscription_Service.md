@@ -5,7 +5,21 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 
+library SafeMath {
+    function add(uint256 a, uint256 b) internal pure returns (uint256) {
+        require(a + b >= a, "SafeMath: addition overflow");
+        return a + b;
+    }
+
+    function sub(uint256 a, uint256 b) internal pure returns (uint256) {
+        require(a >= b, "SafeMath: subtraction overflow");
+        return a - b;
+    }
+}
+
 contract SubscriptionService {
+    using SafeMath for uint256;
+
     address public owner;
     uint256 public annualPrice;
     uint256 public monthlyPrice;
@@ -52,7 +66,7 @@ contract SubscriptionService {
         uint256 price = calculateSubscriptionPrice(tier, interval);
         require(msg.value >= price, "Insufficient funds for the selected subscription");
 
-        uint256 expirationTimestamp = block.timestamp + calculateSubscriptionDuration(interval);
+        uint256 expirationTimestamp = block.timestamp.add(calculateSubscriptionDuration(interval));
         subscriptions.push(Subscription(msg.sender, tier, interval, expirationTimestamp));
         subscriberSubscriptionIndex[msg.sender] = subscriptions.length;
 
@@ -97,7 +111,7 @@ contract SubscriptionService {
     function getSubscriptionBySubscriber(address subscriber) public view returns (Subscription memory) {
         require(subscriberSubscriptionIndex[subscriber] > 0, "Subscriber has no active subscription");
 
-        uint256 index = subscriberSubscriptionIndex[subscriber] - 1;
+        uint256 index = subscriberSubscriptionIndex[subscriber].sub(1);
         return subscriptions[index];
     }
 
@@ -114,7 +128,11 @@ contract SubscriptionService {
     }
 
     function transferOwnership(address newOwner) public onlyOwner {
-        require(newOwner
+        require(newOwner != address(0), "New owner address is invalid");
+        owner = newOwner;
+    }
+}
+
 
 
 ```
