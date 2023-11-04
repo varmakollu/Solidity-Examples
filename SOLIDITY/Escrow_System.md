@@ -1,12 +1,4 @@
-Question 2: Write a Solidity function to implement a trustless escrow system, where funds are held in escrow until certain conditions are met.
-
--  Before we dive into code, let us know what is escrow. In simple words, escrow is a third party that manages money between any two clients. This collects all the funds and locks them until all the required agreements and document process is complete. Once it is done, the funds are released to the desired client. This helps to achieve a trustless contract to complete any sort of business.
-
-  -  Real estate and business transactions are the popular use cases of escrow. 
-
--  So, now we know what escrow is, let us understand how to write a smart contract that locks and releases the funds. Since we know there are 3 people in the whole process. so we have 3 main variables that is buyer, seller, and mediator, also the last one is the amount. 
--  Now there are certain conditions that need to be considered, so we use modifiers to accomplish those. the conditions are only the buyer should send the money, similarly only the seller and only the mediator should be part, and no other address must be involved.
--  Once the modifiers are designed, we use functions to lock, release, refund, and resolve the money.
+# Write a Solidity function to implement a trustless escrow system, where funds are held in escrow until certain conditions are met.
 
 
 ```
