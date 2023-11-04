@@ -1,4 +1,4 @@
-# Check even number
+# Check Even Number
 
 ```
 
