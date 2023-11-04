@@ -1,4 +1,4 @@
-# Calculate factorial
+# Calculate Factorial
 
 
 ```
