@@ -1,4 +1,4 @@
-# write a smart contract which let the users to make payments to the owner.
+# Write a smart contract which lets the users make payments to the owner.
 
 
 ```
