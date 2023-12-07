@@ -27,6 +27,8 @@ Every   will have its solution as well. Most of the  questions are from DappWorl
 
 - [Staked Rewards](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Stacked_Rewards.md)
 
+- [Storage](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Storage_Smart_Contract.md)
+
 - [Verify Identity](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Verify_Identity.md)
 
 - [Voting System](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Voting_System.md)
