@@ -12,6 +12,8 @@ Every   will have its solution as well. Most of the  questions are from DappWorl
 
 - [Check Even Number
 ](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Check_Even_Number.md)
+
+- [Diamond tracking](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Diamond_tracking.md)
   
 - [Dynamic Pricing For Storage](https://github.com/VarmaKollu/Code-90/blob/main/SOLIDITY/Dynamic_Pricing.md)
 
