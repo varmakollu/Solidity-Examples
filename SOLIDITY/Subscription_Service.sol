@@ -1,6 +1,6 @@
-# Write a Contract for OTT Subscription based on tiers and basic to annual pack
+ /* Write a Basic Contract for OTT Subscription based on tiers and basic to annual pack */
 
-```
+
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
@@ -134,5 +134,3 @@ contract SubscriptionService {
 }
 
 
-
-```
