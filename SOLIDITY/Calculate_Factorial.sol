@@ -1,7 +1,7 @@
 # Calculate Factorial
 
 
-```
+
 pragma solidity ^0.8.0;
 
 contract FactorialCalculator {
@@ -19,6 +19,5 @@ contract FactorialCalculator {
     }
 }
 
-```
 
 // https://dapp-world.com/problem/math-calculate-factorial-tvfh/problem
