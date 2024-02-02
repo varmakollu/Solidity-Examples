@@ -1,6 +1,6 @@
-# Diamond tracking (Easy version)
+/* Diamond tracking (Easy version) */
 
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -19,6 +19,6 @@ contract DiamondTracking {
     }
 }
 
-```
 
-- https://dapp-world.com/problem/diamond-tracking-easy-UiSr/problem
+
+// https://dapp-world.com/problem/diamond-tracking-easy-UiSr/problem
