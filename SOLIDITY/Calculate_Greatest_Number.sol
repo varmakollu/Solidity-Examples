@@ -1,4 +1,4 @@
-# Calculate Greatest Number
+/* Calculate Greatest Number */
 
 
 // SPDX-License-Identifier: GPL-3.0
