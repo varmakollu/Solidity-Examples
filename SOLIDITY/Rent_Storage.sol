@@ -1,6 +1,6 @@
-# Solidity function to implement a rentable storage system, where users can rent storage space in exchange for tokens.
+/* Solidity function to implement a rentable storage system, where users can rent storage space in exchange for tokens. */
 
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -49,5 +49,4 @@ contract CloudStorageRent {
     } 
 }
 
-```
 
