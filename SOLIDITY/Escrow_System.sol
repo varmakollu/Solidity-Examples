@@ -1,7 +1,6 @@
-# Write a Solidity function to implement a trustless escrow system, where funds are held in escrow until certain conditions are met.
+/* Write a Solidity function to implement a trustless escrow system, where funds are held in escrow until certain conditions are met. */
 
 
-```
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
@@ -76,4 +75,3 @@ function getBalance() public view returns(uint){
 }
 
 }
-```
