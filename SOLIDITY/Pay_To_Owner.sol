@@ -1,7 +1,6 @@
-# Write a smart contract which lets the users make payments to the owner.
+/* Write a smart contract which lets the users make payments to the owner. */
 
 
-```
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -35,4 +34,3 @@ contract Payment {
     }
 }
 
-```
