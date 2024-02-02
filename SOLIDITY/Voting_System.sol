@@ -1,7 +1,7 @@
-# Solidity function to implement a voting system, where each address can vote only once.
+/* Solidity function to implement a voting system, where each address can vote only once. */
 
 
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.7.0;
 
@@ -65,5 +65,3 @@ contract VotingSystem {
         return candidates[winningCandidateIndex].name;
     }
 }
-
-```
