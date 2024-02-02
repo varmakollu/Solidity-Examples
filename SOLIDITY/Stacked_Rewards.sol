@@ -1,7 +1,6 @@
-# Write a Solidity function to implement a staking system, where users can earn rewards for holding tokens.
+/* Write a Solidity function to implement a staking system, where users can earn rewards for holding tokens. */
 
 
-```
 
 //SPDX-License-Identifier: MIT
 
@@ -48,4 +47,4 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
     
 }
 
-```
+
