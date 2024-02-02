@@ -1,8 +1,8 @@
-# Create a smart contract that implements a dynamic pricing model for a decentralized storage system.
+/* Create a smart contract that implements a dynamic pricing model for a decentralized storage system. */
 
 
 
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 
@@ -42,4 +42,3 @@ contract DynamicPricing {
     }
 }
 
-```
