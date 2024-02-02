@@ -1,7 +1,7 @@
-# Storage Smart Contract
+/* Storage Smart Contract */
 
 
-```
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 
@@ -17,6 +17,6 @@ contract StorageContract {
     }
 }
 
-```
 
-- https://dapp-world.com/problem/storage-smart-contract-udht/problem
+
+// https://dapp-world.com/problem/storage-smart-contract-udht/problem
