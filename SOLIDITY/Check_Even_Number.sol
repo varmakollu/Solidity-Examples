@@ -1,6 +1,5 @@
 # Check Even Number
 
-```
 
 // SPDX-License-Identifier: GPL-3.0
 
@@ -16,6 +15,5 @@ contract EvenNumberChecker {
     }
 }
 
-```
 
-- https://dapp-world.com/problem/math-checkeven-qwer/problem
+// https://dapp-world.com/problem/math-checkeven-qwer/problem
