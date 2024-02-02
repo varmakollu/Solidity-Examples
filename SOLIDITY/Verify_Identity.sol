@@ -1,6 +1,6 @@
-# Verify Identity
+/* Verify Identity */
 
-```
+
 pragma solidity ^0.8.0;
 
 contract identityVerification {
@@ -15,4 +15,4 @@ contract identityVerification {
     }
 }
 
-```
+
