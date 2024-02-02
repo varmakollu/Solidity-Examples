@@ -1,6 +1,5 @@
 # Check Balance
 
-```
 pragma solidity ^0.8.0;
 
 contract checkBalnce{
@@ -13,5 +12,3 @@ contract checkBalnce{
       return address(this).balance;
     }
 }
-
-```
