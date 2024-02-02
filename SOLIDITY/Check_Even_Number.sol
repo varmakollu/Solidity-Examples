@@ -1,4 +1,4 @@
-# Check Even Number
+/* Check Even Number */
 
 
 // SPDX-License-Identifier: GPL-3.0
