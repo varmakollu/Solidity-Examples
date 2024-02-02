@@ -1,6 +1,6 @@
 # Calculate Greatest Number
 
-```
+
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity >=0.7.0 <0.9.0;
@@ -20,6 +20,6 @@ contract GreatestNumber {
     }
 }
 
-```
 
-- https://dapp-world.com/problem/math-calculate-greatest-uiop/problem
+
+// https://dapp-world.com/problem/math-calculate-greatest-uiop/problem
