@@ -1,6 +1,6 @@
-# Question 8: Write a Solidity function to implement a lottery, where users can buy tickets for a chance to win a prize.
+/* Question 8: Write a Solidity function to implement a lottery, where users can buy tickets for a chance to win a prize. */
 
-```
+
 pragma solidity ^0.8.1;
 
 contract Lottery {
@@ -41,5 +41,5 @@ contract Lottery {
     }
 }
 
-```
+
 
