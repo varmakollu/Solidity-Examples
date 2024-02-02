@@ -1,4 +1,4 @@
-# Smart contract to withdraw funds.
+/* Smart contract to withdraw funds. */
 
 
 // SPDX-License-Identifier: MIT
