@@ -1,4 +1,4 @@
-# Code-90
+# 90 Days Code
 A 90-day plan for learning programming problems, from beginners to a more advanced level.
 
 Every   will have its solution as well. Most of the  questions are from DappWorld
