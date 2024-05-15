@@ -4,7 +4,7 @@ contract Counter {
    uint8 public variable;
  
    constructor() {
-       variable = 5;
+       variable = 5; // Fixed Variable
    }
    function decrement() public {
        variable--;
