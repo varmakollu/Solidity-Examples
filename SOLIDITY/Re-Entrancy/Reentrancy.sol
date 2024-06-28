@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.6;
  
+ //  a reentrancy scenario to better understand it
 contract Vault {
    mapping(address => uint) public balances;
  
@@ -16,5 +17,6 @@ contract Vault {
        require(sent, "Failed to send Ether");
  
        balances[msg.sender] = 0;
-   }
+   };
 }
+
