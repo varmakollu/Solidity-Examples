@@ -19,5 +19,15 @@ mapping (address => uint) private userBalances;
    userBalances[msg.sender] = 0;
    }
 ```
+## Prevention
+- Now that we’ve seen how a re-entrancy attack works, let’s take a look at some of the techniques that can be used to avoid re-entrancy.
+
+## Checks-Effects-Interactions Pattern
+A quick and efficient way to stop re-entrancy is to use the Checks-Effects-Interactions pattern. In this method, you write the code inside your function in such a manner that:
+
+- First, all the conditions for the caller to call that function are checked. 
+- Second, all the state modifications required in the function are done.
+- Third, external calls to interact with the other contract are made.
+
 
 Resources: [Openzeppelin’s Reentrancy Guard](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/security/ReentrancyGuard.sol)
