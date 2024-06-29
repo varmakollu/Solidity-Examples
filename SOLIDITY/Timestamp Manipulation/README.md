@@ -4,8 +4,6 @@
 - Block.timestamp can easily be manipulated by the nodes. The node creates a block containing  transactions. They can alter the value of timestamp put on the block they add.
 
 
-
-
 ## How to Prevent Timestamp Dependence?
 ### 15-Second Rule
 - Widely used Ethereum protocol implementations Geth and Parity both reject blocks with timestamps longer than 15 seconds (with average block times landing between 12-14 seconds). This indicates that it is okay to use a block.timestamp for that function if the size of the time-dependent event can vary by 15 seconds while maintaining integrity of the application. 
