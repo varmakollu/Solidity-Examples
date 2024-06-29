@@ -1,6 +1,10 @@
 # Timestamp Manipulation
 - When a smart contract uses the block.timestamp function to execute crucial logic, it is vulnerable to timestamp dependence. This covers activities like sending ETH or utilising the function as a source of entropy to produce the required random numbers. 
 
+- Block.timestamp can easily be manipulated by the nodes. The node creates a block containing  transactions. They can alter the value of timestamp put on the block they add.
+
+
+
 
 ## How to Prevent Timestamp Dependence?
 ### 15-Second Rule
