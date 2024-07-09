@@ -9,7 +9,7 @@
       x = 100;
   }
  
-  function getVariable() public view returns(uint) {
+  function getVariable() public view returns(uint) { 
       return x;
   }
  
