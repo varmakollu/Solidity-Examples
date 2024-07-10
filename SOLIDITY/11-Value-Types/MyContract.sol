@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Example {
+contract MyContract {
     bool myBool = true;
         int8 myInt = -128;
             uint256 myUint = 123456;
@@ -28,4 +28,3 @@ contract Example {
                                                                                         balances[_address] = _value;
                                                                                             }
                                                                                             }
-                                                                                            
