@@ -1,4 +1,7 @@
 // SPDX-License-Identifier: MIT
+
+// Example 2: Logging Ether Received
+
 pragma solidity ^0.8.0;
 
 contract FallbackExample2 {
