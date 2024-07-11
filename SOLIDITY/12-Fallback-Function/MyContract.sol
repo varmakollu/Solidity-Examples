@@ -3,5 +3,7 @@
 pragma solidity ^0.8.0;
 
 contract MyContract {
-    fallback() external payable {}
+    fallback() external payable {
+        revert("Function not found");
+    }
 }
