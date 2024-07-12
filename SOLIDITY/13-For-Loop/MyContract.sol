@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-//
+
 // https://cryptomarketpool.com/for-loop
 
 pragma solidity ^0.8.0;
