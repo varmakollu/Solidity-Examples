@@ -30,8 +30,8 @@ This README provides a comprehensive collection of Solidity programming problems
 
 | Vulnerability ID | Description | Solution |
 |------------------|-------------|----------|
-| VC-01            | `Re-entrancy` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/Re-Entrancy) |
-| VC-02            | `tx.origin` phishing vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/Tx.origin) |
+| VC-01            | `Re-entrancy` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/01-Re-Entrancy) |
+| VC-02            | `tx.origin` phishing vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/02-Tx.origin) |
 | VC-03            | `Arithmetic overflow/underflow` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/%20Insecure%20Arithmetic) |
 | VC-04            | `FrontRunning` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/Frontrunning) |
 | VC-05            | `DoS` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/DoS%20Attack) |
