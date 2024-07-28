@@ -35,7 +35,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | VC-03            | `Arithmetic overflow/underflow` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/03-Insecure%20Arithmetic) |
 | VC-04            | `FrontRunning` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/04-Frontrunning) |
 | VC-05            | `DoS` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/05-DoS%20Attack) |
-| VC-06            | `Oracle Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/Oracle%20Manipulation) |
+| VC-06            | `Oracle Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/06-Oracle%20Manipulation) |
 | VC-07            | `TimeStamp Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/Timestamp%20Manipulation) |
 
 
