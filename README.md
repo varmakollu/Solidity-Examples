@@ -21,7 +21,7 @@ This README provides a comprehensive collection of Solidity programming problems
 
 | DApp ID | Description | Solution |
 |---------|-------------|----------|
-| SD-01   | Create a decentralized todo list application. | [Solution](#todo-list-dapp) |
+| SD-01   | Address book Solidity smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/AddressBook.sol) |
 | SD-02   | Implement a simple decentralized auction system. | [Solution](#auction-dapp) |
 | SD-03   | Develop a decentralized crowdfunding platform. | [Solution](#crowdfunding-dapp) |
 
