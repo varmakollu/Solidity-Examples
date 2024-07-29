@@ -22,7 +22,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | DApp ID | Description | Solution |
 |---------|-------------|----------|
 | SD-01   | Address book Solidity smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/AddressBook.sol) |
-| SD-02   | a ERC721 nft contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/CalyptusNFT.sol) |
+| SD-02   | a ERC721 Calyptus NFT contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/CalyptusNFT.sol) |
 | SD-03   | Develop a decentralized crowdfunding platform. | [Solution](#crowdfunding-dapp) |
 
 
