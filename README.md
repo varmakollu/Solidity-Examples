@@ -29,7 +29,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-06   | A trustless escrow system contract contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Escrow_System.sol) |
 | SD-07   | An ERC1155 Event ticket contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/EventTicketERC1155.sol) |
 | SD-08   | A hotel room contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/HotelRoom.sol) |
-| SD-09   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-09   | A lottery, where users can buy tickets contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Lottery_System.sol) |
 | SD-10   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-11   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-12   | contract. | [Solution](#crowdfunding-dapp) |
