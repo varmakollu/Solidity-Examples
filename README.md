@@ -25,7 +25,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-02   | An ERC721 Calyptus NFT contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/CalyptusNFT.sol) |
 | SD-03   | A dynamic pricing model for a decentralized storage contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Dynamic_Pricing.sol) |
 | SD-04   | A transfer ownership of an in-game asset contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/ERC1155.sol) |
-| SD-05   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-05   | A ERC721 safemint Token contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/ERC721.sol) |
 | SD-06   | A trustless escrow system contract contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Escrow_System.sol) |
 | SD-07   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-08   | contract. | [Solution](#crowdfunding-dapp) |
