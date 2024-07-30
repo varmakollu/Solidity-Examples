@@ -24,7 +24,23 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-01   | Address book Solidity smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/AddressBook.sol) |
 | SD-02   | a ERC721 Calyptus NFT contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/CalyptusNFT.sol) |
 | SD-03   | Develop a decentralized crowdfunding platform. | [Solution](#crowdfunding-dapp) |
-
+| SD-04   |  contract. | [Solution](#crowdfunding-dapp) |
+| SD-05   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-06   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-07   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-08   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-09   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-10   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-11   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-12   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-13   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-14   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-15   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-16   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-17   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-18   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-19   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-20  | contract. | [Solution](#crowdfunding-dapp) |
 
 ## Vulnerable Code Examples
 
