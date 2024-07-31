@@ -40,7 +40,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-17   | OTT Subscription based on tiers and basic to annual pack contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Subscription_Service.sol) |
 | SD-18   | A time lock contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Timelock.sol) |
 | SD-19   | A function to implement a voting system contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Voting_System.sol) |
-| SD-20   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-20   | A withdraw funds contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Withdraw_Funds.sol) |
 
 ## Vulnerable Code Examples
 
