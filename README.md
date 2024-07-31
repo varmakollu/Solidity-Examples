@@ -34,7 +34,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-11   | An ERC20 token smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/MyERC20Token.sol) |
 | SD-12   | A NFT ERC721 with alchemy contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/NFTToken.sol) |
 | SD-13   | An users make payments to the owner smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Pay_To_Owner.sol) |
-| SD-14   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-14   | AN users can rent storage space in exchange for tokens contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Rent_Storage.sol) |
 | SD-15   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-16   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-17   | contract. | [Solution](#crowdfunding-dapp) |
