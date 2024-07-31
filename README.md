@@ -38,7 +38,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-15   | A Shared Wallet contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/SharedWallet.sol) |
 | SD-16   | A function to implement a staking system, where users can earn rewards contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Stacked_Rewards.sol) |
 | SD-17   | OTT Subscription based on tiers and basic to annual pack contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Subscription_Service.sol) |
-| SD-18   | contract. | [Solution](#crowdfunding-dapp) |
+| SD-18   | A time lock contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Timelock.sol) |
 | SD-19   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-20   | contract. | [Solution](#crowdfunding-dapp) |
 
