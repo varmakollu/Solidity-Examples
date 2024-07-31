@@ -31,8 +31,8 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-08   | A hotel room contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/HotelRoom.sol) |
 | SD-09   | A lottery, where users can buy tickets contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Lottery_System.sol) |
 | SD-10   | A simple contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/MyContract.sol) |
-| SD-11   | An erc20 token smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/MyERC20Token.sol) |
-| SD-12   | Nft Erc721 with alchemy contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/NFTToken.sol) |
+| SD-11   | An ERC20 token smart contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/MyERC20Token.sol) |
+| SD-12   | A NFT ERC721 with alchemy contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/NFTToken.sol) |
 | SD-13   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-14   | contract. | [Solution](#crowdfunding-dapp) |
 | SD-15   | contract. | [Solution](#crowdfunding-dapp) |
