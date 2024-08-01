@@ -17,7 +17,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-03      | `Variables` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/03-Variables) |
 | PP-04      | `Functions` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/04-Functions) |
 | PP-05      | `Visibility` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/05-Visibility) |
-| PP-06      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-06      | `Pure View Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/06-Pure-View-Functions) |
 | PP-07      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-08      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-09      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
