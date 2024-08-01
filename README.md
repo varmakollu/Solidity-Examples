@@ -12,10 +12,10 @@ This README provides a comprehensive collection of Solidity programming problems
 
 | Problem ID | Description | Solution |
 |------------|-------------|----------|
-| PP-01      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-02      | Constructors of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/02-Constructors) |
-| PP-03      | Write a contract to transfer tokens between accounts. | [Solution](#token-transfer-contract) |
-| PP-04      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-01      | `DataTypes` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-02      | `Constructors` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/02-Constructors) |
+| PP-03      | `Variables` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/03-Variables) |
+| PP-04      | `Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/04-Functions) |
 | PP-05      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-06      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-07      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
