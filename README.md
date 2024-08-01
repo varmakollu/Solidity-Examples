@@ -1,11 +1,11 @@
-# Solidity Programming Problems, Sample DApps, and Vulnerable Codes
+# Solidity Programming Problems, Sample Smart Contracts, and Vulnerable Codes
 
-This README provides a comprehensive collection of Solidity programming problems, sample decentralized applications (DApps), and examples of vulnerable code. Each section includes solutions to help you understand and solve these issues effectively. The questions and examples are sourced from platforms like Calyptus, DappWorld, Ethernaut, and Ethereum Stack Exchange.
+This README provides a comprehensive collection of Solidity programming problems, sample decentralized applications (DApps), and examples of vulnerable code. Each section includes solutions to help you understand and solve these issues effectively. The questions and examples are sourced from platforms like `Alchemy University`, `Calyptus`, `DappWorld`, `Ethernaut`, and `Ethereum Stack Exchange`.
 
 ## Table of Contents
 
 1. [Programming Problems](#programming-problems)
-2. [Sample DApps](#sample-dapps)
+2. [Sample Contracts](#sample-contracts)
 3. [Vulnerable Code Examples](#vulnerable-code-examples)
 
 ## Programming Problems
@@ -38,7 +38,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-24      | `Interface` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/24-Interface) |
 
 
-## Sample DApps
+## Sample Contracts
 
 | DApp ID | Description | Solution |
 |---------|-------------|----------|
