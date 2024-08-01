@@ -17,25 +17,25 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-03      | `Variables` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/03-Variables) |
 | PP-04      | `Functions` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/04-Functions) |
 | PP-05      | `Visibility` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/05-Visibility) |
-| PP-06      | `Pure View Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/06-Pure-View-Functions) |
-| PP-07      | `Function Modifiers` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/07-Function-Modifiers) |
-| PP-08      | `Arrays` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/08-Array) |
-| PP-09      | `Events` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/09-Events) |
-| PP-10      | `Error Handling` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/10-Error-Handling) |
-| PP-11      | `Value Types` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/11-Value-Types) |
-| PP-12      | `Fallback Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/12-Fallback-Function) |
-| PP-13      | `For Loop` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/13-For-Loop) |
-| PP-14      | `Mapping` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/14-Mapping) |
-| PP-15      | `Enum` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/15-Enum) |
-| PP-16      | `Struct` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/16-Struct) |
-| PP-17      | `Payable Modifier` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/17-Payable-Modifier) |
-| PP-18      | `Imports` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/18-Imports) |
-| PP-19      | `Contract CleanUp` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/19-Contract-Cleanup) |
-| PP-20      | `Memory & Storage` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/20-Memory-and-Storage) |
-| PP-21      | `Inheritance` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/21-Inheritance) |
-| PP-22      | `If Statement` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/22-If-Statement) |
-| PP-23      | `Libraries` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/23-Libraries) |
-| PP-24      | `Interface` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/24-Interface) |
+| PP-06      | `Pure View Functions` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/06-Pure-View-Functions) |
+| PP-07      | `Function Modifiers` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/07-Function-Modifiers) |
+| PP-08      | `Arrays` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/08-Array) |
+| PP-09      | `Events` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/09-Events) |
+| PP-10      | `Error Handling` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/10-Error-Handling) |
+| PP-11      | `Value Types` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/11-Value-Types) |
+| PP-12      | `Fallback Functions` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/12-Fallback-Function) |
+| PP-13      | `For Loop` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/13-For-Loop) |
+| PP-14      | `Mapping` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/14-Mapping) |
+| PP-15      | `Enum` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/15-Enum) |
+| PP-16      | `Struct` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/16-Struct) |
+| PP-17      | `Payable Modifier` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/17-Payable-Modifier) |
+| PP-18      | `Imports` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/18-Imports) |
+| PP-19      | `Contract CleanUp` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/19-Contract-Cleanup) |
+| PP-20      | `Memory & Storage` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/20-Memory-and-Storage) |
+| PP-21      | `Inheritance` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/21-Inheritance) |
+| PP-22      | `If Statement` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/22-If-Statement) |
+| PP-23      | `Libraries` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/23-Libraries) |
+| PP-24      | `Interface` of Solidity. | [Solution](https://github.com/varmakollu/90Code/tree/main/24-Interface) |
 
 
 ## Sample Contracts
