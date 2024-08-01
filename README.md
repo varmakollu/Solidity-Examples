@@ -23,8 +23,8 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-09      | `Events` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/09-Events) |
 | PP-10      | `Error Handling` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/10-Error-Handling) |
 | PP-11      | `Value Types` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/11-Value-Types) |
-| PP-12      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-13      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-12      | `Fallback Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/12-Fallback-Function) |
+| PP-13      | `For Loop` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/13-For-Loop) |
 | PP-14      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-15      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-16      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
