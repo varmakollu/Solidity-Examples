@@ -25,9 +25,9 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-11      | `Value Types` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/11-Value-Types) |
 | PP-12      | `Fallback Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/12-Fallback-Function) |
 | PP-13      | `For Loop` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/13-For-Loop) |
-| PP-14      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-15      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-16      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-14      | `Mapping` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/14-Mapping) |
+| PP-15      | `Enum` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/15-Enum) |
+| PP-16      | `Struct` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/16-Struct) |
 | PP-17      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-18      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-19      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
