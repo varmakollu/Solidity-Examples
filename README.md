@@ -20,8 +20,8 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-06      | `Pure View Functions` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/06-Pure-View-Functions) |
 | PP-07      | `Function Modifiers` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/07-Function-Modifiers) |
 | PP-08      | `Arrays` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/08-Array) |
-| PP-09      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-10      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-09      | `Events` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/09-Events) |
+| PP-10      | `Error Handling` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/10-Error-Handling) |
 | PP-11      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-12      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-13      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
