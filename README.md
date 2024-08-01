@@ -34,7 +34,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-20      | `Memory & Storage` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/20-Memory-and-Storage) |
 | PP-21      | `Inheritance` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/21-Inheritance) |
 | PP-22      | `If Statement` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/22-If-Statement) |
-| PP-23      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-23      | `Libraries` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/23-Libraries) |
 | PP-24      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-25      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 
