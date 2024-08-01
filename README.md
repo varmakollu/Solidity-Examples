@@ -31,9 +31,9 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-17      | `Payable Modifier` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/17-Payable-Modifier) |
 | PP-18      | `Imports` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/18-Imports) |
 | PP-19      | `Contract CleanUp` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/19-Contract-Cleanup) |
-| PP-20      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-21      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-22      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-20      | `Memory & Storage` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/20-Memory-and-Storage) |
+| PP-21      | `Inheritance` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/21-Inheritance) |
+| PP-22      | `If Statement` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/22-If-Statement) |
 | PP-23      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-24      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-25      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
