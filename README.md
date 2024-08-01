@@ -28,9 +28,9 @@ This README provides a comprehensive collection of Solidity programming problems
 | PP-14      | `Mapping` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/14-Mapping) |
 | PP-15      | `Enum` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/15-Enum) |
 | PP-16      | `Struct` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/16-Struct) |
-| PP-17      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-18      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
-| PP-19      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
+| PP-17      | `Payable Modifier` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/17-Payable-Modifier) |
+| PP-18      | `Imports` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/18-Imports) |
+| PP-19      | `Contract CleanUp` of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/19-Contract-Cleanup) |
 | PP-20      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-21      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
 | PP-22      | DataTypes of Solidity | [Solution](https://github.com/varmakollu/90Code/tree/main/01-Data_Types) |
