@@ -82,3 +82,4 @@ This README provides a comprehensive collection of Solidity programming problems
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
 - [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [Alchemy Documentation](https://docs.alchemy.com/reference/api-overview)
