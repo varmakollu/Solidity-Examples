@@ -62,6 +62,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | SD-18   | A time lock contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Timelock.sol) |
 | SD-19   | A function to implement a voting system contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Voting_System.sol) |
 | SD-20   | A withdraw funds contract. | [Solution](https://github.com/varmakollu/90Code/blob/main/Sample-Apps/Withdraw_Funds.sol) |
+| SD-21   | A Delegate call to upgrade a solidity smart contract. | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/Sample-Apps/Delegate_call.sol) |
 
 ## Vulnerable Code Examples
 
