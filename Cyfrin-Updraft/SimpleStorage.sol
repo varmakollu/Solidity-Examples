@@ -1,33 +1,39 @@
+// I'm a comment!
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.19;
+pragma solidity 0.8.19;
 
-// import {SimpleStorage, SimpleStorage2} from "./SimpleStorage.sol";
-import {SimpleStorage} from "./SimpleStorage.sol";
+// pragma solidity ^0.8.0;
+// pragma solidity >=0.8.0 <0.9.0;
 
-contract StorageFactory {
-    SimpleStorage[] public listOfSimpleStorageContracts;
+contract SimpleStorage {
+    uint256 myFavoriteNumber;
 
-    function createSimpleStorageContract() public {
-        SimpleStorage simpleStorageContractVariable = new SimpleStorage();
-        // SimpleStorage simpleStorage = new SimpleStorage();
-        listOfSimpleStorageContracts.push(simpleStorageContractVariable);
+    struct Person {
+        uint256 favoriteNumber;
+        string name;
+    }
+    // uint256[] public anArray;
+    Person[] public listOfPeople;
+
+    mapping(string => uint256) public nameToFavoriteNumber;
+
+    function store(uint256 _favoriteNumber) public virtual {
+        myFavoriteNumber = _favoriteNumber;
     }
 
-    function sfStore(
-        uint256 _simpleStorageIndex,
-        uint256 _simpleStorageNumber
-    ) public {
-        // Address
-        // ABI
-        // SimpleStorage(address(simpleStorageArray[_simpleStorageIndex])).store(_simpleStorageNumber);
-        listOfSimpleStorageContracts[_simpleStorageIndex].store(
-            _simpleStorageNumber
-        );
+    function retrieve() public view returns (uint256) {
+        return myFavoriteNumber;
     }
 
-    function sfGet(uint256 _simpleStorageIndex) public view returns (uint256) {
-        // return SimpleStorage(address(simpleStorageArray[_simpleStorageIndex])).retrieve();
-        return listOfSimpleStorageContracts[_simpleStorageIndex].retrieve();
+    function addPerson(string memory _name, uint256 _favoriteNumber) public {
+        listOfPeople.push(Person(_favoriteNumber, _name));
+        nameToFavoriteNumber[_name] = _favoriteNumber;
     }
 }
+
+contract SimpleStorage2 {}
+
+contract SimpleStorage3 {}
+
+contract SimpleStorage4 {}
