@@ -1,6 +1,6 @@
 # Solidity Programming Problems, Sample Smart Contracts, and Vulnerable Codes
 
-This README provides a comprehensive collection of Solidity programming problems, sample decentralized applications (DApps), and examples of vulnerable code. Each section includes solutions to help you understand and solve these issues effectively. The questions and examples are sourced from platforms like `Alchemy University`, `Calyptus`, `DappWorld`, `Ethernaut`, and `Ethereum Stack Exchange`.
+This README provides a comprehensive collection of Solidity programming problems, sample decentralized applications (DApps), and examples of vulnerable code. Each section includes solutions to help you understand and solve these issues effectively. The questions and examples are sourced from platforms like `Alchemy University`, `Calyptus`, `Code Wars`, `DappWorld`, `Ethernaut`, and `Ethereum Stack Exchange`.
 
 ## Table of Contents
 
@@ -78,6 +78,8 @@ This README provides a comprehensive collection of Solidity programming problems
 | VC-07            | `TimeStamp Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/07-Timestamp%20Manipulation) |
 
 ## Solidity Codewars Solutions
+
+- This repository contains Solidity solutions for various Codewars challenges focused on fundamentals, arrays, algorithms, and beginner-friendly smart contract implementations - [README](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/README.md)
 
 | Problem ID | Description | Solution |
 |------------|-------------|----------|
