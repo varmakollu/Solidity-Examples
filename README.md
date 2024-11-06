@@ -7,6 +7,7 @@ This README provides a comprehensive collection of Solidity programming problems
 1. [Programming Problems](#programming-problems)
 2. [Sample Contracts](#sample-contracts)
 3. [Vulnerable Code Examples](#vulnerable-code-examples)
+4. [Solidity Codewars Solutions](#solidity-codewars-solutions)
 
 ## Programming Problems
 
@@ -75,6 +76,29 @@ This README provides a comprehensive collection of Solidity programming problems
 | VC-05            | `DoS` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/05-DoS%20Attack) |
 | VC-06            | `Oracle Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/06-Oracle%20Manipulation) |
 | VC-07            | `TimeStamp Manipulation` vulnerability. | [Solution](https://github.com/varmakollu/90Code/tree/main/Vulnerability/07-Timestamp%20Manipulation) |
+
+## Solidity Codewars Solutions
+
+| Problem ID | Description | Solution |
+|------------|-------------|----------|
+| FND-01      | Is n Divisible by x and y? | [Solution](#) |
+| FND-02      | Grasshopper - Summation | [Solution](#) |
+| FND-03      | String Repeat | [Solution](#) |
+| FND-04      | Century From Year | [Solution](#) |
+| FND-05      | Multiply | [Solution](#) |
+| FND-06      | Sum of Odd Numbers | [Solution](#) |
+| FND-07      | Count by X | [Solution](#) |
+| FND-08      | Roman Numerals Encoder | [Solution](#) |
+| FND-09      | Expressions Matter | [Solution](#) |
+| FND-10      | Sum of Angles | [Solution](#) |
+| FND-11      | Maximum Multiple | [Solution](#) |
+| FND-12      | Grasshopper - Check for Factor | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/FactorCheck.sol) |
+| FND-13      | Beginner Series #2 Clock | [Solution](#) |
+| FND-14      | Third Angle of a Triangle | [Solution](#) |
+| SC-01      | HelloWorld Smart Contract | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/HelloWorld.sol) |
+| SC-02      | Rock, Paper, Scissors Smart Contract | [Solution](#) |
+| SC-03      | Grasshopper - Terminal Game Move Function | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/Movefunction.sol) |
+| SC-04      | Tic-Tac-Toe Checker | [Solution](#) |
 
 
 ## Resources
