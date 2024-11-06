@@ -120,8 +120,9 @@ function maxMultiple(uint divisor, uint bound) public pure returns (uint) {
 }
 ```
 
-### Grasshopper - Check for Factor
+### Grasshopper - Check for Factor()
 Checks if one number is a factor of another.
+-  [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/FactorCheck.sol)
 ```solidity
 function checkForFactor(uint base, uint factor) public pure returns (bool) {
     return base % factor == 0;
@@ -153,6 +154,7 @@ A simple contract to store and return greetings.
 - `greet`: Returns the saved greeting or `"Hello World!"` by default.
 - `setGreeting`: Allows the user to set a new greeting.
 
+- [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/HelloWorld.sol)
 ```solidity
 contract HelloWorld {
     string public greeting = "Hello World!";
@@ -183,6 +185,7 @@ contract RockPaperScissors {
 
 ### Grasshopper - Terminal Game Move Function
 Moves a hero position based on dice rolls in a terminal game.
+- - [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/Movefunction.sol)
 ```solidity
 function move(uint p, uint r) public pure returns (uint) {
     return p + (r * 2);
