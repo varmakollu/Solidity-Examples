@@ -91,7 +91,7 @@ This README provides a comprehensive collection of Solidity programming problems
 | FND-06      | Sum of Odd Numbers | [Solution](#) |
 | FND-07      | Count by X | [Solution](#) |
 | FND-08      | Roman Numerals Encoder | [Solution](#) |
-| FND-09      | Expressions Matter | [Solution](#) |
+| FND-09      | Expressions Matter | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/expressionMatter.sol) |
 | FND-10      | Sum of Angles | [Solution](#) |
 | FND-11      | Maximum Multiple | [Solution](#) |
 | FND-12      | Grasshopper - Check for Factor | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/FactorCheck.sol) |
