@@ -83,7 +83,7 @@ This README provides a comprehensive collection of Solidity programming problems
 
 | Problem ID | Description | Solution |
 |------------|-------------|----------|
-| FND-01      | Is n Divisible by x and y? | [Solution](#) |
+| FND-01      | Is n Divisible by x and y? | [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/IsDivisible.sol) |
 | FND-02      | Grasshopper - Summation | [Solution](#) |
 | FND-03      | String Repeat | [Solution](#) |
 | FND-04      | Century From Year | [Solution](#) |
