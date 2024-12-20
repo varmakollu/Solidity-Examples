@@ -114,9 +114,10 @@ function sumOfAngles(uint n) public pure returns (uint) {
 
 ### Maximum Multiple
 Finds the maximum multiple of `divisor` less than or equal to `bound`.
+- [Solution](https://github.com/varmakollu/Solidity-Examples/blob/main/CodeWars/MaximumMultiple.sol)
 ```solidity
-function maxMultiple(uint divisor, uint bound) public pure returns (uint) {
-    return bound - (bound % divisor);
+ require(d > 0 && b > 0, "Divisor and bound muste be positive value. ");
+    return (b / d) * d;
 }
 ```
 
